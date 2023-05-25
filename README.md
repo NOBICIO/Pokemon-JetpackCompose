@@ -1,4 +1,4 @@
-# Pokémon Jetpack Compose
+# Pokémon Jetpack Compose pokemon para maricas
 ## Ejemplo de App Android con Kotlin, Jetpack Compose, Retrofit y consumo de la API REST de Pokémon
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.6-purple?longCache=true&style=popout-square)](https://kotlinlang.org)
